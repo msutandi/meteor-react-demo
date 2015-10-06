@@ -26,4 +26,4 @@ dependencies:
 
 test:
   override:    
-    - PACKAGE_DIRS="..:$HOME" meteor test-packages --velocity 
+    - PACKAGE_DIRS="..:$HOME" meteor test-packages
