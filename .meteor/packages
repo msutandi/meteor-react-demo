@@ -20,3 +20,5 @@ react
 accounts-ui
 accounts-password
 accounts-facebook
+sanjo:jasmine
+velocity:html-reporter
