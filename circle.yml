@@ -27,3 +27,4 @@
 # test:
 #   override:    
 #     - PACKAGE_DIRS="..:$HOME" meteor test-packages
+#
